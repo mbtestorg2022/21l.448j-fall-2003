@@ -6,6 +6,7 @@ description: Voltaire, Candide; or Optimism.  translated from the German of Doct
   Kibel]
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21l-448j-darwin-and-design-fall-2003/324ae41a361db80d885df5687ca2df7e_lecture4.pdf
 file_type: application/pdf
+parent_uid: dcedf59c-cbba-76cb-bce5-7ea86a0d56f6
 resourcetype: Document
 title: lecture4.pdf
 uid: 324ae41a-361d-b80d-885d-f5687ca2df7e

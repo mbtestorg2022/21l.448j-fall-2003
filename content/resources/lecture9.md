@@ -5,6 +5,7 @@ description: Thomas Malthus, An essay on the principle of population, as it effe
   M. Condorcet, and other writers. (1798)
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21l-448j-darwin-and-design-fall-2003/04c532231e1506e23c2d3a8193a8eca7_lecture9.pdf
 file_type: application/pdf
+parent_uid: dcedf59c-cbba-76cb-bce5-7ea86a0d56f6
 resourcetype: Document
 title: lecture9.pdf
 uid: 04c53223-1e15-06e2-3c2d-3a8193a8eca7
